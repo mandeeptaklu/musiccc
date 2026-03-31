@@ -3,6 +3,7 @@ tgcrypto
 python-dotenv
 motor
 dnspython
-pytgcalls[ffmpeg]
+pytgcalls
+ffmpeg
 yt-dlp
 
