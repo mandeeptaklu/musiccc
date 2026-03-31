@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+python-dotenv
+motor
+dnspython
+pytgcalls[ffmpeg]
+yt-dlp
+
